@@ -16,7 +16,7 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 - Python
 
 # Results:
-## 1a. share_of_traffic pre-pandemic (%) is:
+## 1a. share of traffic pre-pandemic (%) is:
 - Subways: % of Comparable Pre-Pandemic Day                (55.46)
 - Buses: % of Comparable Pre-Pandemic Day                  (54.69)
 - LIRR: % of Comparable Pre-Pandemic Day                   (59.13)
