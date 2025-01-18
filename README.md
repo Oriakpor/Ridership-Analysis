@@ -25,6 +25,9 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 - Bridges and Tunnels: % of Comparable Pre-Pandemic Day    (93.38)
 - Bridges and Tunnels: % of Comparable Pre-Pandemic Day    (93.38)
 
+![Bar-chart showing the Pre-pandemic traffic share](https://github.com/user-attachments/assets/ee535280-914c-4c14-ada8-ee69a42a5a56)
+
+
 ### Post-pandemic estimated_ridership share is: 
 - Subways: Total Estimated Ridership                  (4280447795)
 - Buses: Total Estimated Ridership                    (1717716966)
@@ -34,6 +37,9 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 - Bridges and Tunnels: Total Traffic                  (1459658489)
 - Staten Island Railway: Total Estimated Ridership       (7556480)
 
+![Bar-chart showing the Post-pandemic traffic share](https://github.com/user-attachments/assets/21e12a66-a333-4f94-8e87-405a5a168531)
+
+
 ## 1b. However, looking at the estimated ridership and pre-pandemic share of traiffic, we notice that the estimated ridership are not given in percentages. Hence, we'll have to calculate it's percentage and make comparison between both to get the change. Using this approach, we obtained the following(from pre-pandemic to post-pandemic):
 - Subways: 55.46% to 44.54%
 - Buses: 54.69% to 45.37%
@@ -41,6 +47,9 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 - Metro-North: 51.08% to 48.92%
 - Bridges and Tunnels: 93.38% to 6.62%
 - Staten Island Railway: 37.82% to 62.19%
+
+
+![Bar-chart showing the change in traffic share](https://github.com/user-attachments/assets/e2024800-4f36-4fdd-a64b-3a85c56f1866)
 
 ### Note: The drop (change) in post-pandemic traffic shares makes sense given the significant shifts in behavior, Infrastructure, and societal norms caused by the pandemic. Many of these changes—such as remote work, safety concerns, and shifts in travel patterns—are logical and expected consequences of a global disruption like COVID-19.
 
@@ -57,6 +66,8 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 ### In conclusion, the service with biggest drop off has fully recovered and exceeded pre-pandemic levels.
 
 # 3. The service that was the fastest to recover is: Bridges and Tunnels.
+![Recovery Trends overtime](https://github.com/user-attachments/assets/41d79a4f-322a-4726-935e-9d54521656b3)
+
 # 4. Using Linear Regression analysis to predict the date of recovery, the following Estimated Date of Recovery for the services were obtained:
 - Subways: % of Comparable Pre-Pandemic Day is: 2026-04-14
 - Buses: % of Comparable Pre-Pandemic Day is: 2028-06-20
