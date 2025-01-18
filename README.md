@@ -78,8 +78,37 @@ The MTA Daily Ridership data was obtained from Maven Analytics:
 
 
 # Recommendations
+## 1. Services with Weak Recovery Levels should be a priority
+### a. Staten Island Railway shows the weakest recovery (42% recovery):
+- Efforts should focus on increasing service reliability and frequency.
+- Addressing safety or accessibility concerns that may discourage users.
+- Improve marketing campaigns to promote the service.
 
+### b. Buses has a 58% recovery, despite being an essential service:
+- Improve bus schedules and reducing wait times.
 
+## 2.  Maintain and Strengthen Services with High Recovery Levels
+### a. Bridges and Tunnels (103% recovery):
+- Maintainance of infrastructure, monitor and manage congestion to avoid overuse.
+- Use flexible toll rates to manage peak-hour demand.
+
+### b. Access-A-Ride (126% recovery):
+- Expand fleet capacity to meet rising demand.
+- Introduce technological booking systems to improve efficiency.
+- Ensure equitable access for all eligible riders.
+
+## 3. Focus on Medium-Recovery Services with Strong Potential
+### a. LIRR (82% recovery) and Metro-North (76% recovery): Both are the busiest and second busiest commuters railroad in North America respectively.
+- Introduce promotional fares to attract riders.
+- Invest in modernized infrastructuree, such as updated stations to improve quality of service
+
+### b. Subways (70% recovery):
+- Improve safety measures, such as cleanliness and surveillance, to attract riders who may be deterred on health grounds.
+- Adopt online payment systems to streamline access.
+
+### 4. Recovery dates, as estimated using linear regression, indicate that services like LIRR (2024-12-02) and Metro-North (2025-05-28) are on track to recover sooner than others such as Buses (2028-06-20).
+- Continuously monitor ridership data to spot changes in recovery trends.
+- Allocation of more resources to services that show slower recovery dates.
 
 
 
